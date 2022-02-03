@@ -40,9 +40,8 @@ Keep this file structure and run the file "Main_SGCN_MOT15.ipynb" directly by [j
 
 ## Team
 
-PK
-
-scc
+- PK
+- SCC
 
 
 
