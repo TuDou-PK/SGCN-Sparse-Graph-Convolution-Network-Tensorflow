@@ -38,6 +38,21 @@ Keep this file structure and run the file "Main_SGCN_MOT15.ipynb" directly by [j
 
 "dataset/hotel" file includes hotel dataset.
 
+## Result
+
+**Warning**: due to the different DL frame, tensorflow version is not exactly the same with pytorch version. Like the way to intial convolution layer kernel.
+
+### ADE & FDE
+|   Metric\Dataset   | ETH  | HOTEL | MOT-15 |
+|  ----  | ----  |
+| ADE  | 0.83 |0.49 |0.14|
+| FDE  | 1.56 | 0.78 | 0.25|
+
+### Visulization
+![image](https://user-images.githubusercontent.com/24941293/152382998-4f14da09-bc92-4dde-be11-9cb925c282db.png)
+
+Green line is the target trojectory and the red line is the prediction trojectory. The result where the two trajectories seem to overlap is good.
+
 ## Team
 
 - PK
