@@ -7,7 +7,7 @@ Project for [Vision and Perception](https://sites.google.com/diag.uniroma1.it/al
 ## Table of Contents
   - [Introduction](#Introduction)
   - [Running](#Running)
-
+  - [Team](#Team)
 
 ## Introduction
 
