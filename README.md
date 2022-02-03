@@ -7,6 +7,7 @@ Project for [Vision and Perception](https://sites.google.com/diag.uniroma1.it/al
 ## Table of Contents
   - [Introduction](#Introduction)
   - [Running](#Running)
+  - [Result](#Result)
   - [Team](#Team)
 
 ## Introduction
@@ -44,7 +45,7 @@ Keep this file structure and run the file "Main_SGCN_MOT15.ipynb" directly by [j
 
 ### ADE & FDE
 |   Metric\Dataset   | ETH  | HOTEL | MOT-15 |
-|  ----  | ----  |
+|  ----  | ----  |  ----  | ----  |
 | ADE  | 0.83 |0.49 |0.14|
 | FDE  | 1.56 | 0.78 | 0.25|
 
