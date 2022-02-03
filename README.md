@@ -41,7 +41,7 @@ Keep this file structure and run the file "Main_SGCN_MOT15.ipynb" directly by [j
 
 ## Result
 
-**Warning**: due to the different DL frame, tensorflow version is not exactly the same with pytorch version. Like the way to intial convolution layer kernel.
+**Warning**: due to using the different DL frame, tensorflow version is not exactly the same with pytorch version. Like the way to intial convolution layer kernel.
 
 ### ADE & FDE
 |   Metric\Dataset   | ETH  | HOTEL | MOT-15 |
