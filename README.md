@@ -6,13 +6,54 @@ Project for [Vision and Perception](https://sites.google.com/diag.uniroma1.it/al
 
 ## Table of Contents
   - [Introduction](#Introduction)
-
+  - [How To Run](#How To Run)
 ## Introduction
 
-This project is the tensorflow implementation for paper "SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction" in CVPR 2021
+![image](https://user-images.githubusercontent.com/24941293/152379633-983f49ce-4b44-4790-bee9-d9514b204deb.png)
+
+
+This project is the **tensorflow implementation** for paper "SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction" in CVPR 2021, and we also use a new dataset [MOT-15](https://motchallenge.net/data/MOT15/) to test it.
 
 [Here](https://github.com/shuaishiliu/SGCN) is the original pytorch code. We rewrite the original author's code by tensorflow.
 
 [Paper](https://arxiv.org/pdf/2104.01528.pdf)
 
+## How To Run
+
+Keep this file structure and run the file "Main_SGCN_MOT15.ipynb" directly by [jupyter notebook](https://jupyter.org/).
+
+"metrics.py" implements loss functions.
+
+"model.py" implements network model.
+
+"utils.py" processes dataset.
+
+"Visualization.ipynb"  shows the visualization of the trojectory.
+
+"dataset/data" file includes MOT-15 dataset，which has been processed.
+
+"dataset/ETH" file includes eth dataset.
+
+"dataset/hotel" file includes hotel dataset.
+
+
 ## 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
