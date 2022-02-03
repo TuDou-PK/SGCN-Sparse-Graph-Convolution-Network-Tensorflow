@@ -23,7 +23,7 @@ This project is the **tensorflow implementation** for paper "SGCN:Sparse Graph C
 
 ## Running
 
-Keep this file structure and run the file "Main_SGCN_MOT15.ipynb" directly by [jupyter notebook](https://jupyter.org/).
+Keep this github file structure and run the file "Main_SGCN_MOT15.ipynb" directly by [jupyter notebook](https://jupyter.org/).
 
 "metrics.py" implements loss functions.
 
